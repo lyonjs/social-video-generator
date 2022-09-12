@@ -3,6 +3,7 @@ import Head from 'next/head';
 import './app.css';
 import {LyonJSLogo} from '../src/components/LyonJSLogo';
 import {ActiveLink} from '../src/components/ActiveLink';
+import Link from 'next/link';
 
 export default ({Component, pageProps}) => {
 	return (
@@ -79,6 +80,12 @@ export default ({Component, pageProps}) => {
 				<p>
 					This project uses <a href="https://nextjs.org/">NextJS</a> and{' '}
 					<a href="https://www.remotion.dev/">Remotion</a> libraries.
+				</p>
+				<p>
+					You can take a look at{' '}
+					<Link href="/example">
+						<a>some generated video example here.</a>
+					</Link>
 				</p>
 			</article>
 
