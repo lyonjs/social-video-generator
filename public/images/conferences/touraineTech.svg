@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="416px" height="176px" viewBox="0 0 416 176" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <!-- On va surement passer sur deux jours :D  -->
+    <title>TNT</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="big-icon" transform="translate(-238.000000, -58.000000)">
+            <g id="TNT" transform="translate(238.000000, 58.000000)">
+                <g id="T" transform="translate(240.000000, 0.000000)">
+                    <rect id="Rectangle" fill="#222333" x="60" y="120" width="56" height="56"></rect>
+                    <rect id="Rectangle" fill="#222333" x="60" y="60" width="56" height="56"></rect>
+                    <rect id="Rectangle" fill="#222333" x="60" y="0" width="56" height="56"></rect>
+                    <rect id="Rectangle" fill="#222333" x="0" y="0" width="56" height="56"></rect>
+                    <rect id="Rectangle" fill="#222333" x="120" y="0" width="56" height="56"></rect>
+                    <polygon id="Rectangle" fill="#6ABFAD" points="0 0 56 56 0 56"></polygon>
+                </g>
+                <g id="N" transform="translate(120.000000, 60.000000)" fill="#6ABFAD">
+                    <rect id="Rectangle" x="0" y="0" width="56" height="56"></rect>
+                    <rect id="Rectangle" x="0" y="60" width="56" height="56"></rect>
+                    <polygon id="Rectangle" points="60 60 116 60 116 116"></polygon>
+                    <polygon id="Rectangle" points="60 0 116 56 60 56"></polygon>
+                    <rect id="Rectangle" x="120" y="0" width="56" height="56"></rect>
+                    <rect id="Rectangle" x="120" y="60" width="56" height="56"></rect>
+                </g>
+                <g id="T" fill="#222333">
+                    <rect id="Rectangle" x="60" y="120" width="56" height="56"></rect>
+                    <rect id="Rectangle" x="60" y="60" width="56" height="56"></rect>
+                    <rect id="Rectangle" x="60" y="0" width="56" height="56"></rect>
+                    <rect id="Rectangle" x="0" y="0" width="56" height="56"></rect>
+                    <rect id="Rectangle" x="120" y="0" width="56" height="56"></rect>
+                </g>
+                <polygon id="Rectangle" fill="#6ABFAD" points="120 0 176 56 120 56"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,809 @@
+[
+	{
+		"id": "1_5_07vraokDo3cMoivHt8SD",
+		"title": "Edge AI : allez viens, on embarque notre intelligence artificielle !",
+		"speakers": [
+			{
+				"picture": "https://avatars.githubusercontent.com/u/78957502?v=4",
+				"name": "Eléa Petton"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "11:10",
+		"location": "Turing"
+	},
+	{
+		"id": "1_9_0BCYtAIapzP7FOTAoaih",
+		"title": "La contribution aux communs numériques",
+		"speakers": [
+			{
+				"picture": "https://cache.sessionize.com/image/db9b-200o200o2-RWGGmT7jGwj2jts6FzDaDn.jpeg",
+				"name": "Jean Couteau"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "12:35",
+		"location": "Turing"
+	},
+	{
+		"id": "1_13_3vity7gCVOrIPLbr5anu",
+		"title": "Rust sans (trop) roter du sang",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/a-/AOh14GiE6mmdxP0ib4guRrl5f5xeF9JcqRjgkpBOcRnc=s96-c",
+				"name": "Édouard Siha"
+			},
+			{
+				"picture": "https://avatars2.githubusercontent.com/u/4584397?v=4",
+				"name": "Alexis \"Horgix\" Chotard"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "13:30",
+		"location": "Pascal"
+	},
+	{
+		"id": "2_9_4ZuVgkJsSPF3AgU7aSBn",
+		"title": "Comment gérer des journées de 35h ?",
+		"speakers": [
+			{
+				"picture": "https://avatars.githubusercontent.com/u/219936?v=4",
+				"name": "Sylvain Gougouzian"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "12:35",
+		"location": "Lovelace"
+	},
+	{
+		"id": "1_5_6hVZGT7mDHObwqc7iVk4",
+		"title": "Sensibilisation aux problématiques des systèmes distribués",
+		"speakers": [
+			{
+				"picture": "https://avatars2.githubusercontent.com/u/1575521?v=4",
+				"name": "Delegue Alexandre"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "11:10",
+		"location": "Lovelace"
+	},
+	{
+		"id": "1_7_82PVJ8pWAf3XUBuobgt1",
+		"title": "Ne jette pas ton ordi,  ... répare le futur ! 🌍",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/a/ALm5wu1QBzjr0zYkDb-RtrEfkjPlp_ozH3DOQmJEBOrk=s96-c",
+				"name": "OLIVIER DEIBER"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "12:10",
+		"location": "Lovelace"
+	},
+	{
+		"id": "1_3,4,5_8Y1SA6Pfjj2LIrbUa037",
+		"title": "Apprenez Rust pas à pas en construisant une application en ligne de commande",
+		"speakers": [
+			{
+				"picture": "https://avatars.githubusercontent.com/u/1086565?v=4",
+				"name": "julien rollin"
+			},
+			{
+				"name": "Guillaume Azam"
+			}
+		],
+		"date": "19/01/2023",
+		"location": "TD1"
+	},
+	{
+		"id": "2_13_9mUt36g9CuvlJdvGLDVS",
+		"title": "J'écris mes CLI en Java, pas vous ?",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/a/AItbvmkzx6UbRKFXNrB9vjgfIStRXSae8DRFBOD37DSP=s96-c",
+				"name": "Kevin Toublanc"
+			},
+			{
+				"picture": "https://lh3.googleusercontent.com/a/AEdFTp4hNweEZWlQbz_BeQ_hbZVI9YS9_zJk0LbM19RQ=s83-c-mo",
+				"name": "Mathieu Laude"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "13:30",
+		"location": "Pascal"
+	},
+	{
+		"id": "1_7_9mx91dnbQegxuMZPrp8m",
+		"title": "Développer et enseigner, une bonne idée ?",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/-1klXL98Tgmo/AAAAAAAAAAI/AAAAAAAAAI4/2MgtgWfi9Zw/photo.jpg",
+				"name": "Jimmy Kasprzak"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "12:10",
+		"location": "Pascal"
+	},
+	{
+		"id": "2_13_DMbEta12hz6HS1I3rWym",
+		"title": "Le DevOps expliqué à mon père, agriculteur à la retraite.",
+		"speakers": [
+			{
+				"picture": "https://pmorisseau.ineaweb.net/img/portrait/carre.jpg",
+				"name": "Philippe MORISSEAU"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "13:30",
+		"location": "Turing"
+	},
+	{
+		"id": "2_15_ESyHvSv5gDz2deOwaFkZ",
+		"title": "On peut écouter 1 fois un utilisateur, ou écouter 1 milliard d'utilisateurs.",
+		"speakers": [
+			{
+				"picture": "https://avatars2.githubusercontent.com/u/790974?v=4",
+				"name": "Christopher MANEU"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "14:30",
+		"location": "Turing"
+	},
+	{
+		"id": "1_17_H3Z9ga1ideEdq1Q2UDOa",
+		"title": "Live-coding, Space invaderes en vanilla JS en partant de zéro",
+		"speakers": [
+			{
+				"picture": "https://i.imgur.com/XgRnNgI.jpg",
+				"name": "Fabien Lamarque"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "15:45",
+		"location": "Pascal"
+	},
+	{
+		"id": "2_13_HWmC1kHb5oxthqwbyrXW",
+		"title": "Streetriders : Vous aimez jouer ? Ok ! On vous raconte comment on l'a développé...",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/-cc1mcrhDQTw/AAAAAAAAAAI/AAAAAAAACsY/m9eXgjM5unA/photo.jpg",
+				"name": "Nicolas GIRAUD"
+			},
+			{
+				"picture": "https://lh3.googleusercontent.com/a/AATXAJzY0AyILX-EN-acPz9lkxlJ8xytDEpTsj2tMsX0=s96-c",
+				"name": "Sylvain Bestion"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "13:30",
+		"location": "Lovelace"
+	},
+	{
+		"id": "2_11_IezpFmDwL1no9qNdYQIG",
+		"title": "Développer publiquement un site en milieu hostile : retour d'expérience",
+		"speakers": [
+			{
+				"picture": "https://pbs.twimg.com/profile_images/1411681027001569284/XBAI9he5_400x400.jpg",
+				"name": "Alexis Lozano"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "13:00",
+		"location": "Turing"
+	},
+	{
+		"id": "2_13,14,15_JPFFlmGXccsFCvny4idC",
+		"title": "Venez faire un petit Tours de la programmation IoT 📟 ?",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/a-/AOh14Gg_MI_UkqLQfx5qyjehVe6sQ3mvuIyO-Li1wiYW=s96-c",
+				"name": "Guillaume Renaudin"
+			},
+			{
+				"picture": "https://lh5.googleusercontent.com/-_wR1F6ARzlY/AAAAAAAAAAI/AAAAAAAAABA/sL5Sk_m1uWA/photo.jpg",
+				"name": "Guillaume Membré"
+			}
+		],
+		"date": "20/01/2023",
+		"location": "TD1"
+	},
+	{
+		"id": "2_11_MktwHZRwKOdE031ba80B",
+		"title": "Lost in abstraction",
+		"speakers": [
+			{
+				"picture": "https://media.licdn.com/dms/image/C4E03AQGR_NpyQUaL4g/profile-displayphoto-shrink_800_800/0/1516903242078?e=1677110400&v=beta&t=uBHWhNPkQaxtvy7VbBfdvxOM77oCrXD7HEst6I1Xcs4",
+				"name": "Pierre Robillard"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "13:00",
+		"location": "Pascal"
+	},
+	{
+		"id": "1_7_OIJZAyTGJRnFpG7F1J77",
+		"title": "User vs Human Experience",
+		"speakers": [
+			{
+				"picture": "https://pbs.twimg.com/profile_images/1544254317787594752/is3i-rtN_400x400.jpg",
+				"name": "Antoine Robiez"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "12:10",
+		"location": "Turing"
+	},
+	{
+		"id": "1_13_PZhCax4A1hSIflgKWUGS",
+		"title": "As a UI designer, how to mess up your project? ",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/a-/ACNPEu-h7e09lBOCFF5E8XAr3pA3pMcbUpFgvdR8phVe=s96-c",
+				"name": "Dorian Delorme"
+			},
+			{
+				"picture": "https://lh4.googleusercontent.com/-GUIo9muY3bs/AAAAAAAAAAI/AAAAAAAAAGA/bzO4wcPA6qI/photo.jpg",
+				"name": "Rudy Baer"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "13:30",
+		"location": "Lovelace"
+	},
+	{
+		"id": "1_19_QL23LjbKcwLMnCVGYAn8",
+		"title": "DALL-E V2 -  un robot et un peintre font de la génération d'image par IA ",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/a/ALm5wu28qVgiwd5Hs9UItPeUB7zj5Z73LGaUiIXEUeC9cXw=s83-c-mo",
+				"name": "Olivier Mertens"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "16:45",
+		"location": "Turing"
+	},
+	{
+		"id": "1_3_RKdpxRlsknOPkd4Lazye",
+		"title": "[Conférence dessinée] Regard scientifique sur l'artisanat logiciel",
+		"speakers": [
+			{
+				"picture": "https://avatars.githubusercontent.com/u/676719",
+				"name": "Victor Lambret"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "10:10",
+		"location": "Lovelace"
+	},
+	{
+		"id": "2_5_RSFB4Oq1k0AafqRJeZ4z",
+		"title": "(Et si on apprenait à) Apprendre et partager autrement",
+		"speakers": [
+			{
+				"picture": "https://lh5.googleusercontent.com/-Jx8n2dYA8Ss/AAAAAAAAAAI/AAAAAAAAYLA/oDqXfvM9CfY/photo.jpg",
+				"name": "Aurélie Vache"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "11:10",
+		"location": "Lovelace"
+	},
+	{
+		"id": "2_17_SltiD9i2aW0hxWmNWWop",
+		"title": "Si on aidait le capitaine Némo à classifier les monstres marins ?",
+		"speakers": [
+			{
+				"picture": "https://avatars.githubusercontent.com/u/78957502?v=4",
+				"name": "Eléa Petton"
+			},
+			{
+				"picture": "https://avatars0.githubusercontent.com/u/26224751?v=4",
+				"name": "Stéphane Philippart"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "15:45",
+		"location": "Turing"
+	},
+	{
+		"id": "2_7_TBitgNi5VAJ7maDvY2ZC",
+		"title": "Storybook, une vraie bonne idée ?",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/a/ALm5wu2roNdsrCMEERs22Xq1cf8Mr0xdM8dVLBWJVSdo=s96-c",
+				"name": "Sara Attallah"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "12:10",
+		"location": "Turing"
+	},
+	{
+		"id": "2_3_TuXPjtB8tUG4yaSnj6pn",
+		"title": "Le guide 2023 du recrutement technique",
+		"speakers": [
+			{
+				"picture": "https://avatars.githubusercontent.com/u/6159437",
+				"name": "Mathis Hammel"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "10:10",
+		"location": "Pascal"
+	},
+	{
+		"id": "2_15_TvfUGgFtJJ5z8zp5KcLB",
+		"title": "Web dans le cloud, piloter ses décisions par les coûts",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/a/AEdFTp6LeB4gBIS3J8mW6PvjIyEZh121oRQxMJB2husrNg=s96-c-rg-br100",
+				"name": "Matthieu Werner"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "14:30",
+		"location": "Pascal"
+	},
+	{
+		"id": "2_7_TzYjfulaUQkXB1Stkrer",
+		"title": "Apprenons ensemble grâce aux bookclubs",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/a-/AOh14Gjo3eiLyQDK6oAv9VdYz0cm6wlg_ZJ1jxhho5Fn=s96-c",
+				"name": "Marion Valentin"
+			},
+			{
+				"picture": "https://lh5.googleusercontent.com/-tmj1tGCN_u4/AAAAAAAAAAI/AAAAAAAABO0/oVqsblFTX8k/photo.jpg",
+				"name": "Yvonnick FRIN"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "12:10",
+		"location": "Pascal"
+	},
+	{
+		"id": "1_17_Uix3DyDf349JzrHJptTl",
+		"title": "H@ck your house!",
+		"speakers": [
+			{
+				"picture": "https://lh5.googleusercontent.com/-RmGqjRpORLg/AAAAAAAAAAI/AAAAAAAARhk/85lVI8ZxfuE/photo.jpg",
+				"name": "Loïc Rodier"
+			},
+			{
+				"picture": "https://avatars.githubusercontent.com/u/795995?v=4",
+				"name": "Nicolas Carlier"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "15:45",
+		"location": "Lovelace"
+	},
+	{
+		"id": "2_3_UjwT58pQSRJUK8aLYfna",
+		"title": "Décommissionnement progressif de code legacy à l’aide d’AST",
+		"speakers": [
+			{
+				"picture": "https://adrienjoly.com/img/photo.jpg",
+				"name": "Adrien JOLY"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "10:10",
+		"location": "Lovelace"
+	},
+	{
+		"id": "2_15_VaECb4MkKg6Si1uzVFK2",
+		"title": "Facilitez-vous les releases, utilisez semantic release (et donnez du sens à vos commits)",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/-Bs0CsngAOE0/AAAAAAAAAAI/AAAAAAAAAB8/S31002Hbe3Y/photo.jpg",
+				"name": "Antoine Meausoone"
+			},
+			{
+				"picture": "https://avatars.githubusercontent.com/u/30294729?v=4",
+				"name": "Gaetan BOGAERT"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "14:30",
+		"location": "Lovelace"
+	},
+	{
+		"id": "1_13,14,15_Y3UvX1gfVgRQtncTbfSa",
+		"title": "Lego Flow Game : le Waterfall, le Scrum et le Kanban tu différencieras !",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/a-/AOh14Ghy-jt97zLXbqxsYUcdxvd62hB1katKsxvruKL4",
+				"name": "Fanny Klauk"
+			}
+		],
+		"date": "19/01/2023",
+		"location": "TD1"
+	},
+	{
+		"id": "1_9_Yta40p2efXdTF7BvmnJ9",
+		"title": "Améliorer les performances de son backend",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/a/ALm5wu0FkMgU3Y8kKMFxFgWQrpM7OSVF-vBpFkYWV_FAPw=s96-c",
+				"name": "Antoine DESSAIGNE"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "12:35",
+		"location": "Lovelace"
+	},
+	{
+		"id": "1_13_cTeyrIyyeQTdDc7x2kLK",
+		"title": "Loi de Conway : Lorsque votre conception produit se fâche avec votre organisation",
+		"speakers": [
+			{
+				"picture": "https://fr.gravatar.com/userimage/123188453/975870a140996b955ead02165d002e51.png?size=500",
+				"name": "Julien Topçu"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "13:30",
+		"location": "Turing"
+	},
+	{
+		"id": "2_3_cqhVPs2RgbRvlBNQZyN5",
+		"title": "Oh crab ! My watch speaks Rust 🦀",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/-vRueeeZ11qc/AAAAAAAAAAI/AAAAAAAAAA0/8WHvuJZv-kQ/photo.jpg",
+				"name": "Pierre-Yves Aillet"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "10:10",
+		"location": "Turing"
+	},
+	{
+		"id": "1_5_eMlIQizK95KpLycTP70y",
+		"title": "Féminisation dans la tech : la communication, ou l'échec de tout un secteur",
+		"speakers": [
+			{
+				"picture": "https://pbs.twimg.com/profile_images/1577242430809800710/tFH0PpqI_normal.jpg",
+				"name": "Amélie ABDALLAH"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "11:10",
+		"location": "Pascal"
+	},
+	{
+		"id": "1_11_fADNfLumOONTJin3kcOQ",
+		"title": "J’ai expliqué notre métier à un pote âgé 🧑‍🌾🥕 ",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/a/ALm5wu3PyyE0gfw5N--u1s5pXCU13ecCBriwTvZ1ON2FUw=s96-c",
+				"name": "Nicolas Dauphin-Moulin"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "13:00",
+		"location": "Pascal"
+	},
+	{
+		"id": "1_9_hRCioWdYNuGOTw59bLm9",
+		"title": "Vous allez finir par les aimer les `Optionals`???",
+		"speakers": [
+			{
+				"picture": "https://avatars0.githubusercontent.com/u/39991688?v=4",
+				"name": "Jérôme Tama"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "12:35",
+		"location": "Pascal"
+	},
+	{
+		"id": "1_19_i8RUBCZSCXX1EpP5Ce3T",
+		"title": "Corn Hole 2 Turbo : Mes premiers pas dans l'embarqué",
+		"speakers": [
+			{
+				"picture": "https://avatars3.githubusercontent.com/u/37868974?v=4",
+				"name": "Paul ROYE"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "16:45",
+		"location": "Lovelace"
+	},
+	{
+		"id": "1_15_iqyLnwdkN4a8O5WcpV7i",
+		"title": "10+ ans de développement Android: La Rétrospective",
+		"speakers": [
+			{
+				"picture": "https://sessionize.com/image/12c2-200o200o2-Qf5YU6fWEKj4f9iBQP7Pcs.jpg",
+				"name": "Julien Salvi"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "14:30",
+		"location": "Lovelace"
+	},
+	{
+		"id": "1_17_kgKT9TgmJggaYZ5VVn9a",
+		"title": "Wolfy - de 2000 à 20 000 joueurs connectés ",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/a/AATXAJz1cR3-UUNozGBTqCwOHwcxLcB6NKPZMPigryqG=s96-c",
+				"name": "Kevin Jean"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "15:45",
+		"location": "Turing"
+	},
+	{
+		"id": "1_11_l23b0hpll77Fk1LNLIWN",
+		"title": "Tester pour ne plus douter : à la recherche du test idéal",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/-qridgWF20Vk/AAAAAAAAAAI/AAAAAAAAAtQ/K8bT4K-PTmU/photo.jpg",
+				"name": "Benjamin Cavy"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "13:00",
+		"location": "Turing"
+	},
+	{
+		"id": "1_15_mAzMafjZzEjUvK5w8hct",
+		"title": "Tester vos microservices sans peine avec Micronaut Test Resources",
+		"speakers": [
+			{
+				"picture": "https://lh4.googleusercontent.com/-TVY7U8ZKABg/AAAAAAAAAAI/AAAAAAAAGQg/eaTDh_bVKpI/photo.jpg",
+				"name": "Cédric Champeau"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "14:30",
+		"location": "Pascal"
+	},
+	{
+		"id": "2_17_mR9GTCYeKujpZ6YkFr0y",
+		"title": "Les lois universelles de la performance",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/a-/AAuE7mAH4zop_a5XskZXkpYaeyGP3i5huq7nvSq8wh8X",
+				"name": "Raphaël Luta"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "15:45",
+		"location": "Lovelace"
+	},
+	{
+		"id": "1_17_neprDB8HcIu0LJn0XexY",
+		"title": "Démystifions le CSS",
+		"speakers": [
+			{
+				"picture": "https://avatars.githubusercontent.com/u/52108241?v=4",
+				"name": "Audrey Dubois"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "15:45",
+		"location": "TD1"
+	},
+	{
+		"id": "1_3_omWyNKhCM0MT1GwS9wWG",
+		"title": "Votre équipe de développement à l'ère post-covid",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/a-/AOh14GjgH5V8kkSvgkWInpRtEAsVXDtnIE1CFxSPPj5JeQ",
+				"name": "Marc DUGUE"
+			},
+			{
+				"picture": "https://pbs.twimg.com/profile_images/1834436625/image_normal.jpg",
+				"name": "Eric Aboudaram"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "10:10",
+		"location": "Turing"
+	},
+	{
+		"id": "2_17_opMtA5pHQNvWz9AEJd6F",
+		"title": "Remotion : le 7ème art à porté de composants web et d'API 🎬",
+		"speakers": [
+			{
+				"picture": "https://avatars0.githubusercontent.com/u/6263857?v=4",
+				"name": "Antoine CARON"
+			},
+			{
+				"picture": "https://lh3.googleusercontent.com/a-/AOh14GiUrTFnY5aNZ73kRkojspqfnItTEfBQs7MExhGL=s96-c",
+				"name": "Alves Mickaël"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "15:45",
+		"location": "Pascal"
+	},
+	{
+		"id": "2_9_p77AbCE87X3s091WvRcb",
+		"title": "sécurité + open source = ❤️",
+		"speakers": [
+			{
+				"picture": "https://lh4.googleusercontent.com/-1wzRZnWEiLs/AAAAAAAAAAI/AAAAAAAAAgY/MXjzTjS-Qu4/photo.jpg",
+				"name": "Adrien PESSU"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "12:35",
+		"location": "Pascal"
+	},
+	{
+		"id": "1_19_r1Bi03rwl8MUWDrFv2BW",
+		"title": "Comment hacker vos applications mobiles ?",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/a/ALm5wu05CZ3QS3Abj6VRab68fMlBmOsGIQyv-NkqKF0n=s96-c",
+				"name": "Julien Jimenez"
+			},
+			{
+				"picture": "https://lh3.googleusercontent.com/a/ALm5wu0g8WnOJudW4cMCFwkD6oZGEsWapQAbBu1_Q-U0=s96-c",
+				"name": "Amélie Avignon"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "16:45",
+		"location": "Pascal"
+	},
+	{
+		"id": "2_3,4,5_txsbzctz75bYv2CHpoit",
+		"title": "La sécurité, par où commencer ? Install party 🎉",
+		"speakers": [
+			{
+				"picture": "https://avatars2.githubusercontent.com/u/809982?v=4",
+				"name": "David Aparicio"
+			}
+		],
+		"date": "20/01/2023",
+		"location": "TD1"
+	},
+	{
+		"id": "1_15_uYdE2DzqELvT4lEL9OAc",
+		"title": "Les post-mortems ou comment sortir heureux d’un carnage",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/-4_4dOg_V9C4/AAAAAAAAAAI/AAAAAAAAAFU/9-fQ0kBWKIQ/photo.jpg",
+				"name": "Lise Quesnel"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "14:30",
+		"location": "Turing"
+	},
+	{
+		"id": "2_5_uhJk2QvrixVicAGP5ZLF",
+		"title": "Mais au fait, que se passe-t-il quand je mets en ligne une vidéo ?",
+		"speakers": [
+			{
+				"picture": "https://pbs.twimg.com/profile_images/1591071618884931586/HLextC7G_400x400.jpg",
+				"name": "Antoine Wacheux"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "11:10",
+		"location": "Pascal"
+	},
+	{
+		"id": "2_11_v1zt5Tr807oFayaQ722R",
+		"title": "Rendu 3D, la grande illusion expliquée",
+		"speakers": [
+			{
+				"picture": "https://lh3.googleusercontent.com/a/ALm5wu3kTtFlhAEF4omcrRGNidrWWaaIlPPzXfdK_JDt=s96-c",
+				"name": "Thomas GUIBERT"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "13:00",
+		"location": "Lovelace"
+	},
+	{
+		"id": "2_5_vSHKQqPa25JkOZrGKfBa",
+		"title": "Entiers, virgules flottantes ou représentations exotiques : parlons d'élégance ",
+		"speakers": [
+			{
+				"picture": "https://pbs.twimg.com/profile_images/981531162790285313/6ZcVrehB_normal.jpg",
+				"name": "Fabien Trégan"
+			},
+			{
+				"picture": "https://avatars.githubusercontent.com/u/29702924?v=4",
+				"name": "Olivier PONCET"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "11:10",
+		"location": "Turing"
+	},
+	{
+		"id": "1_3_vWqRo4G2Zt787YV5hu0p",
+		"title": "Du code SOLID comme un rock, c’est vraiment utile ?",
+		"speakers": [
+			{
+				"picture": "https://lh5.googleusercontent.com/-s8ZeRNMdMUY/AAAAAAAAAAI/AAAAAAAAIAg/tMefLw4P54Y/photo.jpg",
+				"name": "Quentin KLEIN"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "10:10",
+		"location": "Pascal"
+	},
+	{
+		"id": "2_7_xn10AFjRHyYPFPeVv69O",
+		"title": "Product owners et développeurs/développeuses, apprenons à dire \"Non ! \"",
+		"speakers": [
+			{
+				"picture": "https://lh5.googleusercontent.com/-IiaK2sZPRWA/AAAAAAAAAAI/AAAAAAAAAAQ/2FzPc3t8Ipk/photo.jpg",
+				"name": "Christelle Murté"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "12:10",
+		"location": "Lovelace"
+	},
+	{
+		"id": "2_9_zvFb4Oj4FfNaxbaWPHE9",
+		"title": "NoSQL et SQL, les grands esprits se rencontrent... enfin !",
+		"speakers": [
+			{
+				"picture": "https://avatars.githubusercontent.com/u/21245376?v=4",
+				"name": "Loïc LEFEVRE"
+			}
+		],
+		"date": "20/01/2023",
+		"time": "12:35",
+		"location": "Turing"
+	},
+	{
+		"id": "1_11_ZmvGwBSs3jNHkA7ZDF8v",
+		"title": "Les reconvertis: cette nouvelle vague de profils dans le dev",
+		"speakers": [
+			{
+				"picture": "https://pbs.twimg.com/profile_images/1601255670598320131/UO3hhXS9_400x400.jpg",
+				"name": "Helvira G"
+			}
+		],
+		"date": "19/01/2023",
+		"time": "13:00",
+		"location": "Lovelace"
+	},
+	{
+		"id": "1_1_keynoteOuverture1",
+		"title": "Keynote d'ouverture",
+		"speakers": [],
+		"date": "19/01/2023",
+		"time": "09:00"
+	},
+	{
+		"id": "1_21_keynoteCloture1",
+		"title": "Keynote de clôture",
+		"speakers": [],
+		"date": "19/01/2023",
+		"time": "17:40"
+	},
+	{
+		"id": "2_1_keynoteOuverture2",
+		"title": "Keynote d'ouverture",
+		"speakers": [],
+		"date": "20/01/2023",
+		"time": "09:00"
+	},
+	{
+		"id": "2_19_keynoteCloture2",
+		"title": "Keynote de clôture",
+		"speakers": [],
+		"date": "20/01/2023",
+		"time": "16:45"
+	}
+]

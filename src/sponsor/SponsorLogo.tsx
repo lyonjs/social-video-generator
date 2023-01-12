@@ -1,8 +1,9 @@
 import {Img, spring, useCurrentFrame, useVideoConfig} from 'remotion';
 
-export const SponsorLogo: React.FC<{sponsorLogo?: string}> = ({
-	sponsorLogo,
-}) => {
+export const SponsorLogo: React.FC<{
+	sponsorLogo?: string;
+	style?: React.CSSProperties;
+}> = ({sponsorLogo, style}) => {
 	const frame = useCurrentFrame();
 	const {fps} = useVideoConfig();
 
@@ -26,6 +27,7 @@ export const SponsorLogo: React.FC<{sponsorLogo?: string}> = ({
 				opacity: opacityUp,
 				filter: 'drop-shadow(0px 0px 15px #000000)',
 				transform: `scale(${Math.abs(scaleUpLogo)})`,
+				...style,
 			}}
 			src={sponsorLogo}
 		/>
